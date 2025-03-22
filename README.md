@@ -25,7 +25,7 @@
 ---
 
 ### 🛠️ Навыки и инструменты
-
+<p align="left">
 <img title="Python" src="images/python-original.svg" height="50" width="50"/> 
 <img title="Pytest" src="images/pytest-original.svg" height="50" width="50"/>
 <img title="Poetry" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="50" width="50"/>
@@ -48,11 +48,11 @@
 <img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/> 
 <img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/>
 <img title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" width="50"/>
-<img title="TestIT" src="images/testit_logo_icon.png" height="50" width="50"/> 
+<img title="TestIT" src="images/testit_logo_icon.png" height="50" width="50"/>
 <img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="50" width="50"/> 
-<img title="Nginx" src="images/nginx-original.svg" height="50" width="50"/> 
-<img title="Figma" src="images/figma-original.svg" height="50" width="50"/> 
-<img title="HTML5" src="images/html5-original.svg" height="50" width="50"/> 
+<img title="Nginx" src="images/nginx-original.svg" height="50" width="50"/>
+<img title="Figma" src="images/figma-original.svg" height="50" width="50"/>
+<img title="HTML5" src="images/html5-original.svg" height="50" width="50"/>
 <img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
 <img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" width="50"/>
 <img title="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="50" width="50"/>
@@ -64,7 +64,7 @@
 <img title='XCode' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="50" width="50"/>
 <img title='Apache Kafka' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50"/>
 <img title='BrowserStack' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original-wordmark.svg" height="50" width="50"/>
-
+</p>
 
 
 ---
