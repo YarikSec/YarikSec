@@ -36,7 +36,8 @@
 <img title="Selenoid" src="images/selenoid.png" height="50" width="50"/> 
 <img title="Selenium" src="images/selenium-original.svg" height="50" width="50"/> 
 <img title="Selene" src="images/selene.png" height="50" width="50"/> 
-<img title="Pycharm" src="images/pycharm.png" height="50" width="50"/> 
+<img title="Pycharm" src="images/pycharm.png" height="50" width="50"/>
+<img title='VSCode' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="50" width="50"/>
 <img title="Telegram" src="images/tg.png" height="50" width="50"/> 
 <img title="Linux" src="images/linux-original.svg" height="50" width="50"/> 
 <img title="GitLab" src="images/gitlab-original.svg" height="50" width="50"/> 
@@ -45,13 +46,24 @@
 <img title="Pydentic Python" src="images/pydantic.png" height="50" width="50"/> 
 <img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="50" width="50"/> 
 <img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/> 
-<img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/> 
+<img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/>
+<img title="DBeaver" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" height="50" width="50"/>
 <img title="TestIT" src="images/testit_logo_icon.png" height="50" width="50"/> 
-<img title="Apache" src="images/apache-original-wordmark.svg" height="50" width="50"/> 
+<img title="Apache" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" height="50" width="50"/> 
 <img title="Nginx" src="images/nginx-original.svg" height="50" width="50"/> 
 <img title="Figma" src="images/figma-original.svg" height="50" width="50"/> 
 <img title="HTML5" src="images/html5-original.svg" height="50" width="50"/> 
 <img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
+<img title="Postman" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" height="50" width="50"/>
+<img title="Insomnia" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" height="50" width="50"/>
+<img title="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="50" width="50"/>
+<img title="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="50" width="50"/>
+<img title='Android' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" height="50" width="50"/>
+<img title='Android Studio' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" height="50" width="50"/>
+<img title='iOS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="50" width="50"/>
+<img title='XCode' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="50" width="50"/>
+<img title='Apache Kafka' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50"/>
+
 
 
 ---
