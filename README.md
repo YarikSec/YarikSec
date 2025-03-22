@@ -1,8 +1,12 @@
 <h2> 👋 Всем привет, я - Ярослав!</h2>
 
-- Я - QA-engineer
-- Пишу на **Python**
-- Изучаю 
+- Я - **QA-engineer**
+- **Python AQA-инженер**, специализирующийся на автоматизации тестирования с использованием Python. 
+- Я увлечен автоматизацией процессов, разработкой эффективных тестовых стратегий и постоянным улучшением качества продукта. 
+- ⚙️ Изучаю **Advanced Testing**
+- 🧩 **Dev-ops** и инфраструктуру 
+- 🎭 **Искусственный интеллект и машинное обучение**
+- 🏂 🏞️ Активно занимаюсь **спортом** и **путешествую**
 
 ---
 
@@ -22,21 +26,59 @@
 
 ### 🛠️ Навыки и инструменты
 
-<img title="Python" src="images/python-original.svg" height="40" width="40"/> <img title="Pytest" src="images/pytest-original.svg" height="40" width="40"/> <img title="Jira" src="images/jira-original.svg" height="40" width="40"/> <img title="Allure Report" src="images/Allure_Report.png" height="40" width="40"/> <img title="Allure TestOps" src="images/AllureTestOps.png" height="40" width="40"/> <img title="GitHub" src="images/github-original.svg" height="40" width="40"/> <img title="Selenoid" src="images/selenoid.png" height="40" width="40"/> <img title="Selenium" src="images/selenium-original.svg" height="40" width="40"/> <img title="Selene" src="images/selene.png" height="40" width="40"/> <img title="Pycharm" src="images/pycharm.png" height="40" width="40"/> <img title="Telegram" src="images/tg.png" height="40" width="40"/> <img title="Linux" src="images/linux-original.svg" height="40" width="40"/> <img title="GitLab" src="images/gitlab-original.svg" height="40" width="40"/> <img title="Jenkins" src="images/jenkins-original.svg" height="40" width="40"/> <img title="Request Python" src="images/Requests_Python_Logo.png" height="40" width="40"/> <img title="Pydentic Python" src="images/pydantic.png" height="40" width="40"/> <img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="40" width="40"/> <img title="MySQL" src="images/mysql-original-wordmark.svg" height="40" width="40"/> <img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="40" width="40"/> <img title="TestIT" src="images/testit_logo_icon.png" height="40" width="40"/> <img title="Apache" src="images/apache-original-wordmark.svg" height="40" width="40"/> <img title="Nginx" src="images/nginx-original.svg" height="40" width="40"/> <img title="Figma" src="images/figma-original.svg" height="40" width="40"/> <img title="HTML5" src="images/html5-original.svg" height="40" width="40"/> <img title="CSS3" src="images/css3-original.svg" height="40" width="40"/>
+<img title="Python" src="images/python-original.svg" height="50" width="50"/> 
+<img title="Pytest" src="images/pytest-original.svg" height="50" width="50"/>
+<img title="Poetry" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg" height="50" width="50"/>
+<img title="Jira" src="images/jira-original.svg" height="50" width="50"/> 
+<img title="Allure Report" src="images/Allure_Report.png" height="50" width="50"/> 
+<img title="Allure TestOps" src="images/AllureTestOps.png" height="50" width="50"/> 
+<img title="GitHub" src="images/github-original.svg" height="50" width="50"/> 
+<img title="Selenoid" src="images/selenoid.png" height="50" width="50"/> 
+<img title="Selenium" src="images/selenium-original.svg" height="50" width="50"/> 
+<img title="Selene" src="images/selene.png" height="50" width="50"/> 
+<img title="Pycharm" src="images/pycharm.png" height="50" width="50"/> 
+<img title="Telegram" src="images/tg.png" height="50" width="50"/> 
+<img title="Linux" src="images/linux-original.svg" height="50" width="50"/> 
+<img title="GitLab" src="images/gitlab-original.svg" height="50" width="50"/> 
+<img title="Jenkins" src="images/jenkins-original.svg" height="50" width="50"/> 
+<img title="Request Python" src="images/Requests_Python_Logo.png" height="50" width="50"/>
+<img title="Pydentic Python" src="images/pydantic.png" height="50" width="50"/> 
+<img title="SQLAlchemy" src="images/sqlalchemy-original.svg" height="50" width="50"/> 
+<img title="MySQL" src="images/mysql-original-wordmark.svg" height="50" width="50"/> 
+<img title="PostgreSQL" src="images/postgresql-original-wordmark.svg" height="50" width="50"/> 
+<img title="TestIT" src="images/testit_logo_icon.png" height="50" width="50"/> 
+<img title="Apache" src="images/apache-original-wordmark.svg" height="50" width="50"/> 
+<img title="Nginx" src="images/nginx-original.svg" height="50" width="50"/> 
+<img title="Figma" src="images/figma-original.svg" height="50" width="50"/> 
+<img title="HTML5" src="images/html5-original.svg" height="50" width="50"/> 
+<img title="CSS3" src="images/css3-original.svg" height="50" width="50"/>
+
 
 ---
 
 ### 🚀 Мои проекты по автоматизации тестирования
 
-#### <a target="_blank" href="https://github.com/Y3ll0wman/Ivi_UI_and_mobile_test_framework">Фреймворк для автоматизации тестирования web (UI) и mobile онлайн кинотеатра Ivi</a>
-#### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
-#### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework](https://github.com/Y3ll0wman/Saber-Interactive-Auto-Tests">Фреймворк для автоматизации тестирования сайта Saber Interactive</a>
+#### Тестирование UI и API:
 
+- #### <a target="_blank" href="https://github.com/YarikSec/AQA_tests_webshop">Автоматизация тестирования DemoWebShop</a>
+- #### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
+
+#### Тестирование Mobile:
+
+- #### <a target="_blank" href="https://github.com/YarikSec/Petstore_api_test_frameworkr">Фреймворк для автоматизации тестирования !!!</a>
+
+<!--
+#### Тестирование Desktop:
+
+- #### <a target="_blank" href="https://github.com/YarikSec/Petstore_api_test_framework](https://github.com/YarikSec/{project}">Фреймворк для автоматизации тестирования Desktop</a>
+
+[Будущее]:Тестирование десктоп будет реализовано позже, потом раскомментировать
+-->
 ---
 
 ### ✉️ Связаться со мной:
- - [Telegram](https://t.me/yaroslavskyinvest)
- - [Email](yarik.wade@gmail.com)
+[<img title="Telegram" src="images/tg.png" height="40" width="40"/>](https://t.me/yaroslavskyinvest)
+[<img title="EMAIL" src="images/mail.png" height="40" width="40"/>](yarik.wade@gmail.com)
 
 ---
 
