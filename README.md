@@ -63,6 +63,7 @@
 <img title='iOS' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="50" width="50"/>
 <img title='XCode' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" height="50" width="50"/>
 <img title='Apache Kafka' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" height="50" width="50"/>
+<img title='BrowserStack' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/browserstack/browserstack-original-wordmark.svg" height="50" width="50"/>
 
 
 
