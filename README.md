@@ -94,11 +94,11 @@
 - [x] Тестпланы авто- и ручного тестирования
 - [x] Задачи на дефекты
 
-- #### <a target="_blank" href="https://github.com/Y3ll0wman/Petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
+- #### <a target="_blank" href="https://github.com/YarikSec">Фреймворк для автоматизации тестирования API Petstore.io</a>
 
 ### Тестирование Mobile:
 
-- #### <a target="_blank" href="https://github.com/YarikSec/Petstore_api_test_frameworkr">Фреймворк для автоматизации тестирования !!!</a>
+- #### <a target="_blank" href="https://github.com/YarikSec/qaguru_python_19_mobile">Фреймворк для автоматизации тестирования !!!</a>
 
 <!--
 #### Тестирование Desktop:
@@ -110,7 +110,7 @@
 ---
 
 ### ✉️ Связаться со мной:
-[<img title="Telegram" src="images/tg.png" height="40" width="40"/>](https://t.me/yaroslavskyinvest)
+[<img title="Telegram" src="images/tg.png" height="40" width="40"/>](https://t.me/yaroslavsqa)
 [<img title="EMAIL" src="images/mail.png" height="40" width="40"/>](yarik.wade@gmail.com)
 
 ---
