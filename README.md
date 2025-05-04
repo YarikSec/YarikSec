@@ -94,11 +94,33 @@
 - [x] Тестпланы авто- и ручного тестирования
 - [x] Задачи на дефекты
 
-- #### <a target="_blank" href="https://github.com/YarikSec">Фреймворк для автоматизации тестирования API Petstore.io</a>
+- #### <a target="_blank" href="https://github.com/YarikSec/petstore_api_test_framework">Фреймворк для автоматизации тестирования API Petstore.io</a>
+
+:triangular_flag_on_post: Что особенного:
+
+- [x] Оповещения о тестовых прогонах в Telegram
+- [x] Отчеты с request body, response body, status code
+- [x] В тестах проверяются request body, response body, status code
+- [x] В тестах присутствует валидация типов данных, как request body, так и response body
+- [x] Валидация Pydantic
+- [x] Сборка проекта в Jenkins
+- [x] Отчеты Allure Report
+- [x] Интеграция с Allure TestOps
+- [x] Автоматизация отчетности о тестовых прогонах и тест-кейсах в Jira
+- [x] Генерация тестовых данных Mimesis
+
 
 ### Тестирование Mobile:
 
-- #### <a target="_blank" href="https://github.com/YarikSec/qaguru_python_19_mobile">Фреймворк для автоматизации тестирования !!!</a>
+- #### <a target="_blank" href="https://github.com/YarikSec/qaguru_python_19_mobile">Автоматизация тестирования Wikipedia (Browser Stack version)</a>
+
+:triangular_flag_on_post: Что особенного:
+
+- [x] Оповещения о тестовых прогонах в Telegram
+- [x] Сборка проекта в Jenkins
+- [x] Отчеты Allure Report
+
+
 
 <!--
 #### Тестирование Desktop:
